@@ -1,0 +1,80 @@
+#title{
+  background-color: #E97878;
+}
+
+#features{
+padding: 5% 15%;
+
+}
+#footer{
+  background-color: #DDDDDD;
+  margin-bottom: 0;
+}
+body{
+  background-color: #E97878;
+}
+
+.timg{
+  width: 100%;
+
+    border-radius: 50%;
+  /* transform: rotate(25deg); */
+}
+
+h1{
+  font-size: 4rem;
+  line-height: 1.5;
+}
+
+.container-fluid{
+  padding: 3% 15%;
+  padding-top: 4.5rem;
+
+}
+.navbar-brand{
+  font-family: Ubuntu;
+  font-size: 2.0rem;
+  font-weight: bold;
+}
+
+
+.nav-item{
+    padding: 0 25px;
+}
+
+.dbt{
+  width: 500px;
+
+}
+.firstdiv{
+  margin-bottom: 75px;
+}
+
+h3{
+  color: #FFFFF;
+  font-weight:bolder;
+
+}
+.b1{
+  margin: 0 auto 0 auto;
+}
+
+.myfeature{
+  margin-top: 100px;
+  text-align: center;
+}
+
+.bottom-container{
+  text-align: center;
+
+}
+.icon{
+  color: #ff4c68;
+  margin-bottom: 1rem;
+}
+.icon:hover{
+
+color: #AF2D2D;
+
+
+}
